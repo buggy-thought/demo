@@ -1,5 +1,4 @@
 This is simple readme file just created to learn git
 This is the second line of document.
 
-just some updates
-This is not an issue i think.
+removed 2 lines
